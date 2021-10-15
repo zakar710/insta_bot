@@ -5,8 +5,8 @@ import time
 
 
 # account credentials
-my_username  = 'runtime2021'
-my_password = 'turashashe'
+my_username  = ''
+my_password = ''
 
 # def job():
 
